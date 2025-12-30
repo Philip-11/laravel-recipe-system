@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="Login">
     <section class="flex justify-center">
         <fieldset class="fieldset bg-base-100 rounded-box shadow-lg p-5 w-xs">
             <legend class="fieldset-legend text-2xl">Login</legend>

@@ -21,6 +21,6 @@ class recipe_card extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.recipe-card');
+        return view('components.recipe_card');
     }
 }

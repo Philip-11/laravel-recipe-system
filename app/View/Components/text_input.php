@@ -21,6 +21,6 @@ class text_input extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.text-input');
+        return view('components.text_input');
     }
 }
